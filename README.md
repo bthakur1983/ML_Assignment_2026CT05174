@@ -72,9 +72,7 @@ The executed notebook also presents classification reports and confusion matrice
 - `requirements.txt`: Python dependencies.
 - `README.md`: assignment summary and results.
 - `test_data.csv`: held-out test examples and labels.
-- `model/2026CT05174_ML_Assignment.ipynb`: source notebook implementing all five classifiers.
-- `model/2026CT05174_ML_Assignment.executed.ipynb`: executed notebook with outputs.
-- `model/*.joblib`: serialized fitted model pipelines.
+- `model/`: contains the source notebook (`2026CT05174_ML_Assignment.ipynb`) and executed notebook (`2026CT05174_ML_Assignment.executed.ipynb`) implementing all five classifiers.
 - `model_comparison.csv`: full-precision metric results.
 - `model_metrics_comparison.png` and `roc_curves.png`: generated figures shown above.
 
